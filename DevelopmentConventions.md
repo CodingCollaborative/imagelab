@@ -61,5 +61,5 @@ If a topic is not covered by any guides, use best judgement and consider opening
 ### Project-Specific Conventions
 
 - Multiple authors are indicated using multiple @author tags, one tag per line, one author per tag.
-- Many style conventions are embodied in [jp_checks.xml](/lib/jp_checks.xml) and [jp_suppressions.xml](/lib/jp_suppressions.xml) configuration files for [Checkstyle](https://checkstyle.sourceforge.io).
+- Many style conventions are embodied in [checkstyle.xml](config/checkstyle/checkstyle.xml) and [suppressions.xml](config/checkstyle/suppressions.xml) configuration files for [Checkstyle](https://checkstyle.sourceforge.io).
 
