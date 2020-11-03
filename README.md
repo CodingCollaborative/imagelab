@@ -31,28 +31,28 @@ Note that on Windows platforms, the ":" character in the classpath must be chang
 ### Using Gradle
 
 #### Key Commands
-  * ./gradlew tasks --all  
-    * *Displays the full list of commands that can be excecuted*  
-  * ./gradlew run  
-    * *Runs the program*
-  * ./gradlew compileJava  
-    * *Compiles the main java source*  
-  * ./gradlew clean  
-    * *Deletes the build directory*  
-  * ./gradlew classes  
-    * *Assembles the main classes*  
-  * ./gradlew build  
-    * *Assembles and tests the project*  
-  * ./gradlew testClasses  
-    * *Assembles the test classes*  
-  * ./gradlew checkstyle  
-    * *Generates checkstyle reports*  
-  * ./gradlew test  
-    * *Runs the unit tests*  
-  * ./gradlew compileTestJava  
-    * *Compiles the unit tests*  
-  * ./gradlew check  
-    * *Runs all checks*  
+  * Display the full list of commands that can be excecuted  
+    * ./gradlew tasks --all  
+  * Run the program  
+    * ./gradlew run  
+  * Compile the main java source  
+    * ./gradlew compileJava  
+  * Delete the build directory  
+    * ./gradlew clean   
+  * Assemble the main classes  
+    * ./gradlew classes    
+  * Assemble and tests the project
+    * ./gradlew build   
+  * Assemble the test classes  
+    * ./gradlew testClasses  
+  * Generate checkstyle reports 
+    * ./gradlew checkstyle  
+  * Run unit tests
+    * ./gradlew test  
+  * Compile unit tests  
+    * ./gradlew compileTestJava   
+  * Run all checks 
+    * ./gradlew check   
 
 
 ### Resources and References
