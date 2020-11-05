@@ -31,7 +31,7 @@ Note that on Windows platforms, the ":" character in the classpath must be chang
 ### Using Gradle
 Gradle will compile all necessary files and place them in the directory '~/imagelab/build'
 To build the project use the command: 
-   ./gradlew build
+   `./gradlew build`
 
 #### Key Commands
   * Display the full list of commands that can be excecuted  
