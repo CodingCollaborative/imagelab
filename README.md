@@ -29,8 +29,7 @@ Note that on Windows platforms, the ":" character in the classpath must be chang
   * Gradle is the tool used in this repository for automation of the build. Please visit https://gradle.org/ for specific installation instructions.
 
 ### Using Gradle
-Gradle will compile all necessary files and place them in the directory '~/imagelab/build'
-To build the project use the command: 
+To build the project use the command:  
    `./gradlew build`
 
 #### Key Commands
