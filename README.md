@@ -35,27 +35,27 @@ To build the project use the command:
 
 #### Key Commands
   * Display the full list of commands that can be excecuted  
-    * ./gradlew tasks --all  
+    * `./gradlew tasks --all`  
   * Run the program  
-    * ./gradlew run  
+    * `./gradlew run`  
   * Compile the main java source  
-    * ./gradlew compileJava  
+    * `./gradlew compileJava`  
   * Delete the build directory  
-    * ./gradlew clean   
+    * `./gradlew clean` 
   * Assemble the main classes  
-    * ./gradlew classes    
+    * `./gradlew classes`    
   * Assemble and test the project
-    * ./gradlew build   
+    * `./gradlew build`   
   * Assemble the test classes  
-    * ./gradlew testClasses  
+    * `./gradlew testClasses`  
   * Generate checkstyle reports 
-    * ./gradlew checkstyle  
+    * `./gradlew checkstyle`  
   * Run unit tests
-    * ./gradlew test  
+    * `./gradlew test`  
   * Compile unit tests  
-    * ./gradlew compileTestJava   
+    * `./gradlew compileTestJava`   
   * Run all checks 
-    * ./gradlew check   
+    * `./gradlew check`   
 
 
 ### Resources and References
